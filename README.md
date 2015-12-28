@@ -18,4 +18,7 @@
   },function(){
       console.log('失败!');
   })
+  
+  注意事项:
+  本插件基于jquery bootstrap 3 开发，如您项目中已引用，则不必重复引用
  
